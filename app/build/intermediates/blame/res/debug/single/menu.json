@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_tabhost.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\menu\\home_tabhost.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_tabhost.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\menu\\home_tabhost.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_tabhost.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\menu\\home_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center" >
+
+    <Button 
+        android:id="@+id/btn_book"
+        android:layout_width="@dimen/book_grid_bookwidth"
+        android:layout_height="@dimen/book_grid_bookheight"
+        android:background="#FF6600"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="18dip"
+        android:layout_marginBottom="18dip"
+        android:paddingTop="10dip"
+        android:paddingBottom="10dip"
+        android:paddingLeft="7dip"
+        android:paddingRight="7dip"
+        android:ellipsize="end"
+        android:lines="4"
+        android:textColor="#000000"/>
+
+</RelativeLayout>

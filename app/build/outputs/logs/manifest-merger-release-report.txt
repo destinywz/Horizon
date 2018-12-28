@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:9:5-51:19
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:11:9-37
+	android:theme
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:13:9-56
+activity#com.horizon.ui.SplashScreen
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:15:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.horizon.ui.HomeT1Filebrowsing
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:23:9-25:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:24:13-61
+activity#com.horizon.ui.HomeT2Bookshelf
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:26:9-28:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:27:13-58
+activity#com.horizon.ui.NeaterBookshelf
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:29:9-31:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.horizon.ui.MainReader
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:32:9-34:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:33:13-53
+activity#com.horizon.ui.BookMark
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:35:9-37:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:36:13-51
+activity#com.horizon.ui.BookChapter
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:38:9-40:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:39:13-54
+activity#com.horizon.ui.Setting
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:41:9-43:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:42:13-50
+activity#com.horizon.ui.AboutUs
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:44:9-46:48
+	android:label
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:45:13-50
+receiver#com.horizon.ui.mysettings.AlarmReceiver
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:48:9-50:38
+	android:enabled
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:50:13-35
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:49:13-67
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:55:5-84
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:55:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:59:5-81
+	android:name
+		ADDED from D:\File561\myproject\Horizon\app\src\main\AndroidManifest.xml:59:22-78

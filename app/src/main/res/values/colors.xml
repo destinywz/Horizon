@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whiteAkin_bg">#EFF1F0</color>
+    
+    <color name="tab_divider">#274B61</color>
+    <color name="tab_bg">#305872</color>
+    <color name="tab_txt_noChecked">#305872</color>
+    <color name="tab_txt_checked">#FFFFFF</color>
+    
+    <color name="classify_bg">#A5BBC9</color>
+    <color name="classify_lv_checkedItem_bg">#99B0C0</color>
+    <color name="classify_lv_noCheckedItem_bg">#A5BBC9</color>
+    <color name="classify_lv_divider">#8AA5B8</color>
+    <color name="classify_lv_item_txt">#315972</color>
+    
+    <color name="book_tobBar_txt">#011128</color>
+    
+    <color name="neater_tobBar_bg">#305872</color>
+    <color name="neater_bottomBar_bg">#305872</color>
+    <color name="neater_bottomBar_divider">#274B61</color>
+    
+    <color name="file_lv_divider">#BFBFBF</color>
+    <color name="file_topBar_bg">#305872</color>
+    <color name="file_bottomBar_bg">#305872</color>
+    <color name="file_bottomBar_divider">#274B61</color>
+    
+    <!-- 杏色 -->
+    <color name="apricotSelf" parent="android:color">#fffed189</color>
+    <!-- 白色 -->
+    <color name="blackSelf" parent="android:color">#ffffffff</color>
+    <!-- 暗粉色 -->
+    <color name="darkPinkSelf" parent="android:color">#ffee6a90</color>
+</resources>

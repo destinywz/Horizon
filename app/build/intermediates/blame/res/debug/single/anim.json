@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rightin.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\anim\\rightin.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\leftout.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\anim\\leftout.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rightout.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\anim\\rightout.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\leftout.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\anim\\leftout.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rightin.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\anim\\rightin.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\leftout.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\anim\\leftout.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rightout.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\anim\\rightout.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\leftin.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\anim\\leftin.xml"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rightout.xml",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\anim\\rightout.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rightin.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\anim\\rightin.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\leftin.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\anim\\leftin.xml"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\anim\\leftin.xml",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\anim\\leftin.xml"
+    }
+]

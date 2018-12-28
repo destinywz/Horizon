@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\File561\myproject\Horizon\app\src\main\assets"/><source path="D:\File561\myproject\Horizon\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\File561\myproject\Horizon\app\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,119 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.horizon.ui.BookshelfViewGroup
+        android:id="@+id/viewGroup_bookshelf"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <!-- 第一个子元素：这是分类侧边栏的布局 -->
+
+        <LinearLayout
+            android:id="@+id/linearLayout_ClassifyContent"
+            android:layout_width="@dimen/classify_width"
+            android:layout_height="fill_parent"
+            android:background="@color/classify_bg"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="@dimen/classify_width"
+                android:layout_height="fill_parent" >
+
+                <ListView
+                    android:id="@+id/listView_classify"
+                    android:layout_width="@dimen/classify_width"
+                    android:layout_height="@dimen/classify_lv_height"
+                    android:cacheColorHint="@android:color/transparent"
+                    android:divider="@color/classify_lv_divider" 
+                    android:layout_marginTop="15dip"/>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/classify_lv_item_height"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="30dip" >
+
+                    <ImageView
+                        android:id="@+id/iv_classify"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginRight="10dip"
+                        android:layout_marginLeft="15dip"
+                        android:src="@drawable/add" />
+
+                    <Button
+                        android:id="@+id/btn_addClassify"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="15dip"
+                        android:layout_toRightOf="@+id/iv_classify"
+                        android:layout_marginLeft="12dp"
+                        android:background="@android:color/transparent"
+                        android:textSize="@dimen/classify_add_txt"
+                        android:textColor="@color/classify_lv_item_txt" 
+                        android:text="添加分类" />
+                </RelativeLayout>
+                
+            </RelativeLayout>
+        </LinearLayout>
+
+        <!-- 第二个子元素：主屏幕布局 -->
+
+        <LinearLayout
+            android:id="@+id/linearLayout_mainContent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:background="@drawable/bookshelf_bg" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/home_tabtitle_height"
+                android:background="@color/tab_bg" >
+                
+                <ImageButton 
+                    android:id="@+id/imgBtn_openClassifyAct"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+        			android:layout_marginLeft="15dip"
+        			android:src="@drawable/menu1"
+        			android:background="#00000000"/>
+
+                <TextView
+                    android:id="@+id/tv_classifyName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:textColor="@color/tab_txt_checked" 
+                    android:textSize="20dip"/>
+                
+                <ImageButton 
+                    android:id="@+id/imgBtn_openFileSAct"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+        			android:layout_marginRight="15dip"
+        			android:src="@drawable/more"
+        			android:background="#00000000"/>
+                
+            </RelativeLayout>
+
+
+            <GridView
+                android:id="@+id/gridView_book"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:numColumns="3" >
+            </GridView>
+        </LinearLayout>
+    </com.horizon.ui.BookshelfViewGroup>
+
+</RelativeLayout>

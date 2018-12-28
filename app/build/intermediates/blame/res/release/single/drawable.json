@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\File561\\myproject\\Horizon\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bookshelf_bg.xml",
+        "source": "D:\\File561\\myproject\\Horizon\\app\\src\\main\\res\\drawable\\bookshelf_bg.xml"
+    },
+    {
+        "merged": "D:\\File561\\myproject\\Horizon\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector2.xml",
+        "source": "D:\\File561\\myproject\\Horizon\\app\\src\\main\\res\\drawable\\checkbox_selector2.xml"
+    },
+    {
+        "merged": "D:\\File561\\myproject\\Horizon\\app\\build\\intermediates\\res\\merged\\release\\drawable\\menu_reater.xml",
+        "source": "D:\\File561\\myproject\\Horizon\\app\\src\\main\\res\\drawable\\menu_reater.xml"
+    },
+    {
+        "merged": "D:\\File561\\myproject\\Horizon\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector1.xml",
+        "source": "D:\\File561\\myproject\\Horizon\\app\\src\\main\\res\\drawable\\checkbox_selector1.xml"
+    },
+    {
+        "merged": "D:\\File561\\myproject\\Horizon\\app\\build\\intermediates\\res\\merged\\release\\drawable\\classify_lv_item_bg.xml",
+        "source": "D:\\File561\\myproject\\Horizon\\app\\src\\main\\res\\drawable\\classify_lv_item_bg.xml"
+    },
+    {
+        "merged": "D:\\File561\\myproject\\Horizon\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_onoff.xml",
+        "source": "D:\\File561\\myproject\\Horizon\\app\\src\\main\\res\\drawable\\checkbox_onoff.xml"
+    }
+]

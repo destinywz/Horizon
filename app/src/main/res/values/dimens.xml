@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="home_tabtitle_height">45dip</dimen>
+    
+    <dimen name="classify_width">165dip</dimen>
+    <dimen name="classify_lv_height">422dip</dimen>
+    <dimen name="classify_lv_item_height">50dip</dimen>
+    <dimen name="classify_tvAdd_marginTop">20dip</dimen>
+    <dimen name="classify_lv_item_txt">18sp</dimen>
+    <dimen name="classify_add_txt">18sp</dimen>
+    
+    <dimen name="book_topBar_height">40dip</dimen>
+    <dimen name="book_topBar_txt">20sp</dimen>
+    <dimen name="book_grid_bookwidth">84.5dip</dimen>
+    <dimen name="book_grid_bookheight">110dip</dimen>
+    
+    <dimen name="dialog_listItem_height">50dip</dimen>
+    
+    <dimen name="neater_topBar_height">45dip</dimen>
+    <dimen name="neater_bottomBar_height">45dip</dimen>
+    
+    <dimen name="file_topBar_height">55dip</dimen>
+    <dimen name="file_topBar_txt">20sp</dimen>
+    <dimen name="file_bottomBar_height">45dip</dimen>
+    <dimen name="file_bottomBar_txt">18sp</dimen>
+    <dimen name="file_listItem_height">70dip</dimen>
+
+</resources>

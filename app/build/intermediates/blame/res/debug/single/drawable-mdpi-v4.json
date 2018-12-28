@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mainshujia.jpg",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\drawable-mdpi\\mainshujia.jpg"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mainshujia.jpg",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\drawable-mdpi\\mainshujia.jpg"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mainshujia.jpg",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\drawable-mdpi\\mainshujia.jpg"
+    }
+]

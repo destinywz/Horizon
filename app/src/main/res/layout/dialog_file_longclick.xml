@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="256dip"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="#BFBFBF" >
+    
+    <Button 
+        android:id="@+id/btn_delete"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/dialog_listItem_height"
+        android:layout_marginBottom="1dip"
+        android:gravity="center"
+        android:background="#FFFFFF"
+        android:textSize="18sp"
+        android:text="删除"/>
+    
+    <Button 
+        android:id="@+id/btn_rename"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/dialog_listItem_height"
+        android:layout_marginBottom="1dip"
+        android:gravity="center"
+        android:background="#FFFFFF"
+        android:textSize="18sp"
+        android:text="重命名"/>
+    
+    <Button 
+        android:id="@+id/btn_removeToClassify"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/dialog_listItem_height"
+        android:layout_marginBottom="1dip"
+        android:gravity="center"
+        android:background="#FFFFFF"
+        android:textSize="18sp"
+        android:text="加入书架"/>
+
+
+</LinearLayout>

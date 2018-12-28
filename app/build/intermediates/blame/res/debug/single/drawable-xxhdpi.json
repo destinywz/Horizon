@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\set.png",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\set.png"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\readcity.png",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\readcity.png"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\read.png",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\read.png"
+    },
+    {
+        "merged": "E:\\NEW\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\NEW\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mine.png",
+        "source": "C:\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\mine.png"
+    },
+    {
+        "merged": "E:\\Last\\Horizon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Last\\Horizon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

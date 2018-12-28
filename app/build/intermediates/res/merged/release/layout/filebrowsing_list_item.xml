@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/file_listItem_height">
+    
+    <ImageView 
+        android:id="@+id/img_file"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dip"/>
+    
+    <TextView 
+        android:id="@+id/tv_fileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/img_file"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:maxWidth="190dip"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+    
+    <CheckBox 
+        android:id="@+id/checkbox_fileCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dip"
+        style="@style/HorizonCheckBox2"
+        android:visibility="invisible"
+        android:focusable="false"
+        android:clickable="false"/>
+
+</RelativeLayout>
+

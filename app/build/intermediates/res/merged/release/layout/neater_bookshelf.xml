@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/bookshelf_bg">
+
+    <RelativeLayout
+        android:id="@+id/layout_topBar"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/neater_topBar_height"
+        android:background="@color/neater_tobBar_bg" >
+        <ImageButton 
+            android:id="@+id/imgBtn_return"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/back_white"
+            android:background="#00000000"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="整理书架"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+        
+        <TextView
+            android:id="@+id/tv_checkedNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/tv_title"
+            android:layout_marginRight="10dip"
+            android:layout_centerVertical="true"
+            android:textColor="#FF6600"
+            android:textSize="18sp"
+            android:text="0"
+            android:textStyle="bold"/>
+
+        <CheckBox
+            android:id="@+id/checkbox_checkAll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            style="@style/HorizonCheckBox1"
+            android:text=" 全选"
+            android:textColor="#FFFFFF"
+            android:layout_marginRight="10dp"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/layout_topBar" >
+
+        <GridView
+            android:id="@+id/gridView_book"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:numColumns="3" >
+        </GridView>
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/neater_bottomBar_height"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical"
+        android:background="@color/neater_bottomBar_divider"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:layout_marginRight="1dip"
+            android:background="@color/neater_bottomBar_bg"
+            android:textSize="18sp"
+            android:text="删除"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btn_remove"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@color/neater_bottomBar_bg"
+            android:textSize="18sp"
+            android:text="移动到"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+</RelativeLayout>
